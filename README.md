@@ -18,15 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
-![FL5](fl5.jpg)
-
----
-
-## 🚗 I Love My Car
-Cars are my second passion—especially classic sports cars and modern performance machines.  
-I enjoy learning about design, engineering, and taking every chance to go for a spirited drive.
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JianChunMa&show_icons=true&theme=tokyonight&count_private=true)
