@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/langchain_logo.png" alt="LangChain" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/langchain_logo.png](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph_logo.png" alt="LangGraph" width="40" height="40"/>
 </p>
