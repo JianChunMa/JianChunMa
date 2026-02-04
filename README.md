@@ -16,9 +16,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://unpkg.com/simple-icons@v9/icons/tableau.svg" alt="Tableau" width="40" height="40" style="fill: #E97627;"/>
+  <img src="https://img.icons8.com/color/48/tableau.png" alt="Tableau" width="40" height="40"/>
 
-<img src="https://unpkg.com/simple-icons@v9/icons/powerbi.svg" alt="Power BI" width="40" height="40" style="fill: #F2C811;"/>
+<img src="https://img.icons8.com/color/48/microsoft-power-bi.png" alt="Power BI" width="40" height="40"/>
 </p>
 
 
